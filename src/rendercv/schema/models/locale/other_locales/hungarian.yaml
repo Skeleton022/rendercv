@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../../../../../schema.json
+locale:
+  language: hungarian
+  last_updated: Utoljára frissítve
+  month: hónap
+  months: hónap
+  year: év
+  years: év
+  present: jelenleg
+  phrases:
+    degree_with_area: DEGREE AREA szakon
+  month_abbreviations:
+    - jan.
+    - febr.
+    - márc.
+    - ápr.
+    - máj.
+    - jún.
+    - júl.
+    - aug.
+    - szept.
+    - okt.
+    - nov.
+    - dec.
+  month_names:
+    - január
+    - február
+    - március
+    - április
+    - május
+    - június
+    - július
+    - augusztus
+    - szeptember
+    - október
+    - november
+    - december
